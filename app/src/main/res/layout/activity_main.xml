@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="242dp"
+        android:layout_height="107dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginBottom="250dp"
+        android:src="@drawable/github" />
+
+    <TextView
+        android:layout_width="99dp"
+        android:layout_height="28dp"
+        android:layout_marginLeft="150dp"
+        android:text="@string/github_users"
+        android:textColor="@android:color/background_dark" />
+
+</LinearLayout>

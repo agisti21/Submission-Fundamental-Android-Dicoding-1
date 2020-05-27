@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">SubmissionFundamental1</string>
+    <string name="github_users">Github Users</string>
+    <string name="username">username</string>
+    <string name="nama_user">nama_user</string>
+    <string name="company">company</string>
+    <string name="repository">repository</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="location">location</string>
+
+    <string-array name="data_nama">
+        <item>Mark Lee</item>
+        <item>Kim Min Seok</item>
+        <item>Jung Jaehyun</item>
+        <item>Kim Doyoung</item>
+        <item>Park Chanyeol</item>
+        <item>Park Woo Jin</item>
+        <item>Kim Jong In</item>
+        <item>Na Jaemin</item>
+        <item>Renjun</item>
+        <item>Lee Taeyong</item>
+    </string-array>
+
+    <string-array name="data_avatar">
+        <item>@drawable/mark</item>
+        <item>@drawable/xiumin</item>
+        <item>@drawable/jaehyun</item>
+        <item>@drawable/doyoung</item>
+        <item>@drawable/chanyeol</item>
+        <item>@drawable/woojin</item>
+        <item>@drawable/kai</item>
+        <item>@drawable/jaemin</item>
+        <item>@drawable/renjun</item>
+        <item>@drawable/taeyong</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>mark_lee</item>
+        <item>xiu_min</item>
+        <item>jjaehyun</item>
+        <item>doyoung_kim</item>
+        <item>chan_yeol</item>
+        <item>park_wooz</item>
+        <item>zkdlin</item>
+        <item>jaeminna</item>
+        <item>r_enjun</item>
+        <item>taeyong_lee</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>Google,Inc</item>
+        <item>Samsung</item>
+        <item>Apple</item>
+        <item>Bank of China</item>
+        <item>Toyota</item>
+        <item>Microsoft</item>
+        <item>Chevron</item>
+        <item>Allianz</item>
+        <item>Amazon</item>
+        <item>Amazon</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>New York</item>
+        <item>South Korea</item>
+        <item>California</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Washington, AS</item>
+        <item>Jakarta</item>
+        <item>Jakarta</item>
+        <item>Seattle</item>
+        <item>Jakarta Selatan</item>
+    </string-array>
+
+
+    <string-array name="data_follower">
+        <item>23K</item>
+        <item>78K</item>
+        <item>7M</item>
+        <item>89K</item>
+        <item>100K</item>
+        <item>3M</item>
+        <item>70K</item>
+        <item>500K</item>
+        <item>8M</item>
+        <item>500K</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>11</item>
+        <item>20</item>
+        <item>50</item>
+        <item>0</item>
+        <item>400</item>
+        <item>70</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>80</item>
+        <item>500</item>
+    </string-array>
+    <string-array name="data_repository">
+        <item>111</item>
+        <item>119</item>
+        <item>38</item>
+        <item>99</item>
+        <item>15</item>
+        <item>999</item>
+        <item>79</item>
+        <item>80</item>
+        <item>88</item>
+        <item>59</item>
+    </string-array>
+
+
+</resources>
